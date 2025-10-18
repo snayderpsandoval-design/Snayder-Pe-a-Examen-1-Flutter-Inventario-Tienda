@@ -1,2 +1,2 @@
-# Snayder-Pe-a-Examen-1-Flutter-Inventario-Tienda
+# Snayder-Peña-Examen-1-Flutter-Inventario-Tienda
 presentacion y documentacion del examen
